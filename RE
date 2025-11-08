@@ -1,7 +1,0 @@
-echo "# Practise-A2" >> README.md
-git init
-git add README.md
-git commit -m "First commit"
-git branch -M main
-git remote add origin https://github.com/JeaneMachinda/Practise-A2.git
-git push -u origin mai
